@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <title>Chris Volinsky</title>
+    
+    <meta http-equiv="Content-Type" content="text/html;
+					     charset=UTF-8" />
+    
+    <link rel="stylesheet" type="text/css" href="ctv-2c.css" />
+  </head>
+
+  <body>
+
+    <div id="header">
+      <h1>Chris Volinsky</h1>
+    </div>
+    
+    <div id="content">
+      <div id="sidebar">
+	<img src="images/Elwha.jpg" ></img> 
+	<h2> AVP, Big Data Research<br> AT&T Labs Research <br>
+	      Bedminster, NJ</br></br>
+	</h2>
+	<h2> volinsky[at]<br>research.dot.att.dot.com</h2>
+	  <h2>Twitter:<a href="http://www.twitter.com/statpumpkin">@statpumpkin</a></h2>
+	  <h2><a href="https://www.linkedin.com/pub/chris-volinsky/3/364/144">LinkedIn</a>
+	  </h2>
+		
+	</div>
+      </div>
+	    
+      <div id="main-content">
+	      
+	<div class="section">
+	  <div id="about">
+	    <h1> About Me </h1>
+	    <p>
+	      Hi, I'm Chris.  I'm a statistician who likes
+	      interesting problems that can be solved through
+	      data, statistical modelling, and visualization.  I
+	      lead a research group in AT&T Labs
+	      covering <a href="http://stats.research.att.com/">Statistics</a>,
+	      <a href="http://www.research.att.com/groups/infovis/?fbid=oEuFNL6L8Vi">information
+		visualization</a>, data science, and database
+	      research.
+	    <p>A recent copy of
+	      my <a href="Files/cvUpdatePersonal2013.pdf">CV/resume</a>
+	    </p>
+	    </div>
+	  </div>
+
+	  <div class="section">
+	    <div id="press">
+	      <h1> Publications </h1>
+	      <p> <a href="http://www2.research.att.com/~volinsky/myrefs.html">Full
+		  List of Publications</a></p>
+	      <p> Short list of most requested papers:
+	      </p>
+	      <ul>
+		<li> CACM Paper
+		  on <a href="http://www.kiskeya.net/ramon/work/pubs/cacm13.pdf">Human
+		    Mobility and Smart Cities</a></li>
+		<li> Netflix Prize Paper
+		  on <a href="http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf">
+		    Matrix Factorization methods</a></li>
+		<li> Statistical Science paper
+		  on <a href="http://www2.research.att.com/~volinsky/papers/statsci-hpv.pdf">
+		    Network-based marketing</a> </li>
+	      </div>
+	    </div>
+
+	    <div class="section">
+	      <div id="pubs">
+		<h1>Presentations and Media</h1>
+		<p> A collection of articles where you might see
+		  me:</p>
+		<ul>
+		  <li><a href="http://www.fiercewireless.com/tech/story/att-labs-applies-analytics-improve-california-traffic/2015-10-01">Article
+			in Fierce Wireless </a> about our work using
+		    cellular traffic to monitor traffic in CA</li>
+		  <li> <a href="https://plus.google.com/events/chuviltukohj2inbqueap9h7228">The
+			Statistics Identity Crisis: Am I Really a Data
+			Scientist?</a> : A Google hangout organized by ASA
+		      after our JSM panel session (I'm the second speaker)
+		    <li><a href="http://www.nj.com/news/index.ssf/2012/06/why_att_is_is_using_your_cell.html">NJ.com
+			article about our work </a>applying mobile data to
+		      urban planning and traffic monitoring in
+		      Morristown.
+		    <li>Article by the awesome Clive Thompson in NYTimes
+		      Magazine back in
+		      2008 <a href="http://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html?pagewanted=all&_r=0">outlining
+			our team and the Netflix Prize competition in
+			general</a> - my favorite article about that
+		      contest.</li>
+		    <li>Promo Video by
+		      AT&T- <a href="http://bit.ly/n1VK1H">You, as a
+			Number</a>
+		    </li>
+		    </ul>
+		    </div>
+		  </div>
+		  
+		  <div class="section">
+		    
+		    <div id="things">
+		      <h1> Other Interesting Things</h1>
+		      <ul>
+			<li><a href="https://myyearofdata.wordpress.com/">My
+			    Year of Data.</a>  A blog I created to document my
+			  efforts in quantifying my life, by collecting and
+			  sharing as much data as possible.</li>
+			<li><a href="DataMining/Columbia2011/Columbia2011.html">Teaching.</a>
+			  Slides from an adjunct coure in data mining from a
+			  few years ago.  </li>
+			<li><a href="https://web.archive.org/web/19970716171832/http://www.stat.washington.edu/volinsky/">Wayback
+			    Machine</a> My website at the birth of the
+			  internet. </li>
+			<li><a href="http://www2.research.att.com/~volinsky/florida.html">My
+			    first experience going viral.</a> A post back in
+			  2000 about the Bush/Gore election that got some
+			  press.
+			</li>
+			<li>I was part of a team that won a $1M competition
+			  run by Netflix to improve their recommender system,
+			  known
+			  as <a href="http://www2.research.att.com/~volinsky/netflix/bpc.html">the
+			    Netflix Prize.</a> </li>
+			<li><a href="http://www2.research.att.com/~volinsky/bma.html">Bayesian
+			    Model Averaging</a> My PhD thesis on this topic led
+			  me to curate this web site.  I dont do active
+			  research here anymore, but there is still a lot of
+			  interest. </li>
+		      </ul>
+		    </div>
+		    
+		  </div>
+		</div>
+		
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		  _uacct = "UA-302657-2"; urchinTracker();
+		</script>
+
+
+	      </body>
+	      
+	    </html>

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html xml:lang="en" lang="en" dir="ltr" class="no-js">
+<head>
+<link rel="shortcut icon" href="/lib/tpl/starterbootstrap/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/starterbootstrap/images/apple-touch-icon.png" />
+
+    <meta charset="UTF-8" />
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+    <title>
+        Auton Lab -
+        tutorials:prob18.pdf    </title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="noindex,follow"/>
+<meta name="keywords" content="tutorials,prob18.pdf"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="Auton Lab"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/tutorials/prob18.pdf?do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns=tutorials"/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/_export/xhtml/tutorials/prob18.pdf"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/_export/raw/tutorials/prob18.pdf"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=starterbootstrap&amp;tseed=a1a6b41a3db7dcb253447b168c0551cd"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='tutorials';var JSINFO = {"id":"tutorials:prob18.pdf","namespace":"tutorials","move_renameokay":false};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=starterbootstrap&amp;tseed=a1a6b41a3db7dcb253447b168c0551cd"></script>
+<script type="text/x-mathjax-config">/*<![CDATA[*/MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+        displayMath: [ ["$$","$$"], ["\\[","\\]"] ],
+        processEscapes: true
+    }
+});
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="shortcut icon" href="/lib/tpl/starterbootstrap/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/starterbootstrap/images/apple-touch-icon.png" />
+
+<!-- NOTE: dokuwiki's php css compressor doesn't play nice with media queries -->
+<link href="/lib/tpl/starterbootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="/lib/tpl/starterbootstrap/css/print.css" rel="stylesheet" media="print">
+<script src="/lib/tpl/starterbootstrap/js/respond.min.js" type="text/javascript"></script>
+    <style>
+        .navbar-brand-img {
+            box-sizing: content-box;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            height: 90;\n        }
+    </style>
+</head>
+
+<body data-spy="scroll" data-target="#dw_toc">
+        <!--[if IE 6 ]><div id="IE6"><![endif]--><!--[if IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+
+                <div id="dokuwiki__site" ><div id="dokuwiki__top"
+        class="dokuwiki site mode_show hasSidebar">
+        <div class="navbar navbar-default navbar-fixed-top">
+                        <div class="navbar-header">
+                <button class="navbar-toggle" data-toggle="collapse" data-target="#topnav" type="button">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                                    <a class="navbar-brand-img navbar-brand" href=""><img src="/auton.png" alt=""></a>
+                                            </div>
+            <div class="navbar-collapse collapse" id="topnav">
+                <ul class="nav navbar-nav navbar-right">
+                                            <li><a href="/tutorials/prob18.pdf?do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]">Show pagesource</a></li>                                        <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-header">Page Tools</li>
+                            <li><a href="/tutorials/prob18.pdf?do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]">Show pagesource</a></li><li><a href="/tutorials/prob18.pdf?do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]">Old revisions</a></li><li><a href="/tutorials/prob18.pdf?do=backlink"  class="action backlink" rel="nofollow" title="Backlinks">Backlinks</a></li>                            <li class="dropdown-header">Site Tools</li>
+                                                        <li><a href="/tutorials/prob18.pdf?do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent Changes [R]">Recent Changes</a></li><li><a href="/tutorials/prob18.pdf?do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li><li><a href="/tutorials/prob18.pdf?do=media&amp;ns=tutorials"  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li>                                                                                    <li class="dropdown-header">User Tools</li>
+                            <li><a href="/tutorials/prob18.pdf?do=login&amp;sectok=41a573abdcc2298dc99b9a2e98bfb5de"  class="action login" rel="nofollow" title="Log In">Log In</a></li>                                                        <li class="divider"></li>
+                            <li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]">Back to top</a></li>                        </ul>
+                    </li>
+                </ul>
+
+                <form action="/start" accept-charset="utf-8" class="navbar-form navbar-right" id="dw__search" method="get" role="search"><input type="hidden" name="do" value="search" /><div class="form-group"><input type="text"  autocomplete="off" id="qsearch__in" accesskey="f" name="id" class="form-control col-lg-3" title="[F]" placeholder="Search" /> </div><div id="qsearch__out" class="ajax_qsearch"></div></form>            </div>
+        </div>
+
+        <div class="container-fluid not-header">
+            <div class="notifications hidden-print">
+                            </div>
+
+            <a href="#dokuwiki__content" class="sr-only hidden-print">skip to content</a>
+            <a href="#dokuwiki__aside" class="skip-to-sidebar hidden-print visible-xs btn-block btn btn-info">Skip to Navigation</a>
+
+            
+            
+            <section class="wrapper row"><!-- PAGE ACTIONS -->
+                <!-- ********** CONTENT ********** -->
+                <div id="dokuwiki__content" class="col-sm-9 col-sm-push-3 ">
+                                            <div class="youarehere">
+                            <ul class="breadcrumb hidden-print">You are here::&nbsp; <li class="home"><bdi><a href="/start" class="wikilink1" title="start">start</a></bdi></li> <li><bdi><a href="/tutorials" class="wikilink1" title="tutorials">tutorials</a></bdi></li> <li><bdi><span class="curid"><a href="/tutorials/prob18.pdf" class="wikilink2" title="tutorials:prob18.pdf" rel="nofollow">prob18.pdf</a></span></bdi></li> </ul>                        </div>
+                    
+                                        
+                                        <div class="page" role="main">
+                    <!-- wikipage start -->
+                        
+<h1 class="sectionedit1" id="this_topic_does_not_exist_yet">This topic does not exist yet</h1>
+<div class="level1">
+
+<p>
+You&#039;ve followed a link to a topic that doesn&#039;t exist yet. If permissions allow, you may create it by clicking on “Create this page”.
+</p>
+
+</div>
+
+                    <!-- wikipage stop -->
+                    </div>
+
+                                    </div><!-- /content -->
+
+                <!-- ********** ASIDE ********** -->
+                                <aside id="dokuwiki__aside" class="col-sm-3 col-sm-pull-9">
+                                        <div class="sidebar-page">
+                        
+<h1 class="sectionedit1" id="about_us">About Us</h1>
+<div class="level1">
+<ul>
+<li class="level1"><div class="li"><a href="/people" class="wikilink1" title="people">People</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/research" class="wikilink1" title="research">Research</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/projects" class="wikilink1" title="projects">Projects</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/sponsors" class="wikilink1" title="sponsors">Sponsors</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/jobs" class="wikilink1" title="jobs">Jobs</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/awards" class="wikilink1" title="awards">Awards</a></div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT1 SECTION "About Us" [0-100] -->
+<h1 class="sectionedit2" id="library">Library</h1>
+<div class="level1">
+<ul>
+<li class="level1"><div class="li"><a href="/papers" class="wikilink1" title="papers">Papers</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/videos" class="wikilink1" title="videos">Videos</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/talks" class="wikilink1" title="talks">Talks</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/technical_reports" class="wikilink1" title="technical_reports">Technical Reports</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/tutorials" class="wikilink1" title="tutorials">Tutorials</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/web_analysis_tools" class="wikilink1" title="web_analysis_tools">Web Analysis Tools</a></div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT2 SECTION "Library" [101-221] -->
+<h1 class="sectionedit3" id="downloads">Downloads</h1>
+<div class="level1">
+<ul>
+<li class="level1"><div class="li"><a href="/datasets" class="wikilink1" title="datasets">Datasets</a></div>
+</li>
+<li class="level1"><div class="li"><a href="/software" class="wikilink1" title="software">Software</a></div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT3 SECTION "Downloads" [222-267] -->
+<h1 class="sectionedit4" id="contact">Contact</h1>
+<div class="level1">
+<ul>
+<li class="level1"><div class="li"><a href="/contact_us" class="wikilink1" title="contact_us">Contact us</a></div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT4 SECTION "Contact" [268-] -->                    </div>
+                                    </aside><!-- /aside -->
+                            </section><!-- /wrapper -->
+
+            <!-- ********** FOOTER ********** -->
+            <footer id="dokuwiki__footer" class="hidden-print">
+<div class="pull-right">
+                <ul class="doc breadcrumb">
+                    <li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]">Back to top</a></li>
+                    <li></li>
+                </ul>
+                <p>
+Copyright &copy;2016, Carnegie Mellon University, Auton Lab. All Rights Reserved.  
+</p>
+</div>
+            </footer><!-- /footer -->
+
+                    </div>
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=tutorials%3Aprob18.pdf&amp;1476844034" width="2" height="1" alt="" /></div>
+    <!--[if ( IE 6 | IE 7 | IE 8 ) ]></div><![endif]-->
+
+    <script src="/lib/tpl/starterbootstrap/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var jQNew = $.noConflict(true);
+</script>
+<script src="/lib/tpl/starterbootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/lib/tpl/starterbootstrap/js/sorttable.js" type="text/javascript"></script>
+<script src="/lib/tpl/starterbootstrap/js/script.js" type="text/javascript"></script>
+</body>
+</html>
