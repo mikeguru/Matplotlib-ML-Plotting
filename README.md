@@ -1,3 +1,3 @@
-# Data-Processings-Machine-Learnings-and-Plottings
+# Processings-Machine-Learnings-and-Plottings
 
 ALL RIGHTS RESERVED
